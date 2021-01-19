@@ -1,5 +1,5 @@
+##ASD_1_1 - Maximum number
 /*
-ASD_1_1 - Maximum number
 The given sequence of non-negative integers terminating in zero is given, where zero is not an element of the string.
 
 Find the maximum number in a given string.
