@@ -13,3 +13,4 @@ Menu
   6.  Multiplying matrix transposition by vector
   7.  Queue
   8.  Stack
+  9.  Connected components of a graph
